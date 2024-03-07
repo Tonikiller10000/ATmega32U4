@@ -4,8 +4,6 @@
 This is an arduino micro development board with the ATmega32U4 microcontroller witch has integrated USB comunication protocol and don\`t need an external FTDI programmer.
 This protothype can be used as an keyboard or an Keystroke injection tool because of it\`s integrated USB comunication protocol witch can very easely be used with the Keyboard.h library in the arduino IDE.
 
-### How it works
-The board has an 5V voltage regulator, an 16MHz crystal resonator and 3 led\`s for 1 power and 2 data lines. 
 <table>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/ATmega32U4/blob/main/Atmega32u4_Pictures/3.png"/></td>
